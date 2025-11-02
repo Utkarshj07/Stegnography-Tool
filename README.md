@@ -23,7 +23,7 @@ StegnoVault/
 
 ---
 
-Tech Stack
+Tech Stack:
 Python 3.x
 PyQt5
 Pillow (PIL)
